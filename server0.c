@@ -10,7 +10,7 @@
 #define LEN 2
 
 /*
-	服务端程序,tcp
+	server: using linux socket for tcp  
 */
 
 int main()

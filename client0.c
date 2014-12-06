@@ -9,7 +9,8 @@
 #define PORT 8888
 
 /*
-	客户端程序
+	client: tcp.
+	serverIP:127.0.0.1 
 */
 
 int main()
