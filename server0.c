@@ -63,6 +63,7 @@ int main()
 		scanf("%s",buffer);
 		write(sc,buffer,strlen(buffer)+1);
 		close(sc);
+		close(ss);
 		exit(0);
 	}
 }
