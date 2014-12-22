@@ -13,6 +13,10 @@
 #include <linux/tcp.h>
 #include <linux/udp.h>
 
+/*
+** 基于Linux系统下的sniffer
+*/
+
 int main(int argc,char **argv)
 {
 	int sock,n,i;
